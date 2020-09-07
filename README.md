@@ -12,6 +12,30 @@ Welcome to my page!
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=jeffreytse&show_icons=true&hide_border=true">
 
+<a href="https://github.com/jeffreytse">
+<img src="https://komarev.com/ghpvc/?username=jeffreytse"
+alt="Visitor" />
+<a/>
+
+<a href="https://neovim.io/">
+<img src="https://img.shields.io/badge/%F0%9F%94%A7editor-neovim-blue" alt="Editor: Neovim">
+<a/>
+
+<a href="https://liberapay.com/jeffreytse">
+<img src="http://img.shields.io/liberapay/goal/jeffreytse.svg?logo=liberapay"
+alt="Donate (Liberapay)" />
+</a>
+
+<a href="https://patreon.com/jeffreytse">
+<img src="https://img.shields.io/badge/support-patreon-F96854.svg?style=flat-square"
+alt="Donate (Patreon)" />
+</a>
+
+<a href="https://ko-fi.com/jeffreytse">
+<img height="20" src="https://www.ko-fi.com/img/githubbutton_sm.svg"
+alt="Donate (Ko-fi)" />
+</a>
+
 <!--
 **jeffreytse/jeffreytse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
