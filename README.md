@@ -1,14 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, Fellow Developer.</h1>
 
 <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
-
-Welcome to my page!
-
-- 💻 I'm a Full Stack Engineer
-- 🔭 I build things that makes a difference
-- 💜 I work with tech entrepreneurs around the world building remarkable products
-- ⚡ Excited to create open-source projects
-- ✉️ Feel free to get in [touch](mailto:jeffreytse.mail@gmail.com) with me
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=jeffreytse&show_icons=true&hide_border=true">
 
@@ -40,6 +32,32 @@ alt="Donate (Patreon)" />
 <img height="20" src="https://www.ko-fi.com/img/githubbutton_sm.svg"
 alt="Donate (Ko-fi)" />
 </a>
+
+<h2>Introduction</h2>
+
+I develop and maintain open-source projects that boost developer productivity.
+In addition, I practice playing piano and guitar in my spare time. Besides
+that, I also fall in love with photography. Welcome to exchange ideas with me.
+
+Roadmap: 👨‍💻 -> 🎸 -> 🎹 -> 📸
+
+<h2>Support</h2>
+
+🙏 If you use [jekyll-spaceship](https://github.com/jeffreytse/jekyll-spaceship),
+[jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat),
+[jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action),
+[zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode),
+or any of my other projects, a monthly contribution would mean A WHOLE LOT.
+
+On its own, open-source doesn't pay the bills, and it takes a lot of time to
+create and maintain. Hopefully, with your help, continuing my work can be
+sustainable and making my new ideas come TRUE 😝.
+
+<h2>Backers</h2>
+
+❤️  Thanks for your supports!
+
+[BACKERS.md](https://github.com/jeffreytse/jeffreytse/blob/master/BACKERS.md)
 
 <!--
 **jeffreytse/jeffreytse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
