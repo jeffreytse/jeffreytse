@@ -9,9 +9,10 @@ if you want to change how your name is listed.
 Backers :heart:
 ===============
 
-*Updated: 2021-04-09*
+*Updated: 2021-10-16*
 
 
-- [Ragnar Olafsson](https://github.com/roo1989)
-- [Tomas Sandven](https://github.com/Hubro)
+- [Kjell](https://github.com/KjellMorgenstern) (From Oct 2021 to Present)
+- [Ragnar Olafsson](https://github.com/roo1989) (From April 2021 to May 2021)
+- [Tomas Sandven](https://github.com/Hubro) (From Feb 2021 to Present)
 
