@@ -53,6 +53,14 @@ On its own, open-source doesn't pay the bills, and it takes a lot of time to
 create and maintain. Hopefully, with your help, continuing my work can be
 sustainable and making my new ideas come TRUE 😝.
 
+To thank you for your sponsorship, I will:
+
+- Add you to my BACKERS.md file (>= $0/month).
+- Follow your GitHub account (>= $10/month).
+- Assist you on using any one of my Open-Source projects ASAP (>= $20/month).
+- Notice you when I have new ideas and projects (>= $50/month).
+- Add any one of your Ads banner to my profile (>= $100/month).
+
 <h2>Backers</h2>
 
 ❤️  Thanks for your supports!
