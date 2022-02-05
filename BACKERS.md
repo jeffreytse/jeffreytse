@@ -12,6 +12,7 @@ Backers :heart:
 *Updated: 2021-11-12*
 
 
+- [Eduard Itrich](https://github.com/itrich) (From Feb 2022 to Present)
 - [Kjell](https://github.com/KjellMorgenstern) (From Oct 2021 to Present)
 - [Kyle Ondy](https://github.com/KyleOndy) (From Nov 2021 to Present)
 - [Ragnar Olafsson](https://github.com/roo1989) (From April 2021 to May 2021)
