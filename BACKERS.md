@@ -9,13 +9,14 @@ if you want to change how your name is listed.
 Backers :heart:
 ===============
 
-*Updated: 2022-04-17*
+*Updated: 2022-09-12*
 
 
 - [Eduard Itrich](https://github.com/itrich) (From Feb 2022 to Present)
 - [Kjell](https://github.com/KjellMorgenstern) (From Oct 2021 to Present)
 - [Kyle Ondy](https://github.com/KyleOndy) (From Nov 2021 to Present)
-- [p m brown](https://github.com/p-m-brown) (From April 2022 to Present)
-- [Ragnar Olafsson](https://github.com/roo1989) (From April 2021 to May 2021)
+- [p m brown](https://github.com/p-m-brown) (From Apr 2022 to Present)
+- [Ragnar Olafsson](https://github.com/roo1989) (From Apr 2021 to May 2021)
 - [Tomas Sandven](https://github.com/Hubro) (From Feb 2021 to Present)
+- [GitHub](https://github.blog/2022-06-24-thank-you-to-our-maintainers/)(Jun 2022)
 
