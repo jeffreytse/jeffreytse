@@ -10,7 +10,7 @@ alt="Platform: windows | macos | linux" />
 <a/>
 
 <a href="https://github.com/jeffreytse">
-<img src="https://visitor-badge.glitch.me/badge?page_id=jeffreytse.visitor-badge"
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeffreytse&count_bg=%232282C4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false"
 alt="Visitor" />
 <a/>
 
