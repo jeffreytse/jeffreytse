@@ -10,7 +10,7 @@ Backers :heart:
 ===============
 
 
-*Updated: 2024-10-02*
+*Updated: 2024-11-25*
 
 Monthly Backers :heart:
 
@@ -18,6 +18,7 @@ Monthly Backers :heart:
 - [Frances Wang](https://github.com/franceswy) (**From Mar 2023 to Present**) 🏃
 - [Kjell](https://github.com/KjellMorgenstern) (**From Oct 2021 to Present**) 🏃
 - [Kyle Ondy](https://github.com/KyleOndy) (**From Nov 2021 to Present**) 🏃
+- [Paul](https://github.com/devnoname120) (**From Nov 2024 to Present**) 🏃
 - [Pbwn](https://github.com/pbwn) (From Nov 2022 to Dec 2022)
 - [Ragnar Olafsson](https://github.com/roo1989) (From Apr 2021 to May 2021)
 - [Steven Leabo](https://github.com/leabs) (From Feb 2023 to Mar 2023)
