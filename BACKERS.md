@@ -16,6 +16,7 @@ Monthly Backers :heart:
 
 - [Eduard Itrich](https://github.com/itrich) (From Feb 2022 to Nov 2022)
 - [Frances Wang](https://github.com/franceswy) (**From Mar 2023 to Present**) 🏃
+- [Hernán Cervera M.](https://github.com/hernancerm) (**From Feb 2025 to Present**) 🏃
 - [Kjell](https://github.com/KjellMorgenstern) (**From Oct 2021 to Present**) 🏃
 - [Kyle Ondy](https://github.com/KyleOndy) (**From Nov 2021 to Present**) 🏃
 - [Paul](https://github.com/devnoname120) (**From Nov 2024 to Present**) 🏃
